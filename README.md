@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kanika Gupta</h1>
 <h3 align="center">I’m a 3rd-year Computer Science student with interest in MERN stack development and practicing Data Structures & Algorithms to improve problem-solving skills. Alongside development, I have a growing curiosity for the cybersecurity domain, especially understanding secure coding practices. I enjoy building projects, learning continuously, and improving through hands-on experience.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=itskanika&label=Profile%20views&color=0e75b6&style=flat" alt="itskanika" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itskanika" alt="itskanika" /></a> </p>
 
 - 📫 How to reach me : **22guptakanika@gmail.com**
 
