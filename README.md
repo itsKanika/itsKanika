@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kanika Gupta</h1>
-<h3 align="center">I’m a 3rd-year Computer Science student with interest in MERN stack development and practicing Data Structures & Algorithms to improve problem-solving skills. Alongside development, I have a growing curiosity for the cybersecurity domain, especially understanding secure coding practices. I enjoy building projects, learning continuously, and improving through hands-on experience.</h3>
+<h3 align="center">I’m a Final year Computer Science student with interest in MERN stack development and practicing Data Structures & Algorithms to improve problem-solving skills. Alongside development, I have a growing curiosity for the cybersecurity domain, especially understanding secure coding practices. I enjoy building projects, learning continuously, and improving through hands-on experience.</h3>
 
 
 - 📫 How to reach me : **22guptakanika@gmail.com**
