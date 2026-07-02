@@ -3,7 +3,7 @@
 
 
 - 📫 How to reach me : **22guptakanika@gmail.com**
-
+ Cheeck it out: https://kanikagupta.me/
 - 📄 Know about my experiences [https://drive.google.com/file/d/1AuOm3Cx3Z40qy5hlwb_Ld-x3TiN_eBnp/view](https://drive.google.com/file/d/1AuOm3Cx3Z40qy5hlwb_Ld-x3TiN_eBnp/view)
 
 <h3 align="left">Connect with me:</h3>
