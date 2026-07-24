@@ -1,29 +1,29 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0033,50:4c1d95,100:1a0033&height=220&section=header&text=Kanika%20Gupta&fontSize=52&fontColor=e9d5ff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Engineer%20%7C%20MERN%20%2B%20AI%20Voice%20Systems&descAlignY=58&descSize=18&descColor=c4b5fd" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:022c22,50:065f46,100:022c22&height=220&section=header&text=Kanika%20Gupta&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Engineer%20%7C%20MERN%20%2B%20AI%2FML%20Enthusiast&descAlignY=58&descSize=22&descColor=d1fae5" width="100%"/>
 
 <a href="https://github.com/itsKanika">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Building+full-stack+products+with+MERN;Designing+AI+%26+voice-driven+systems;Learning+by+shipping+real+projects;Open+to+SDE+%2F+Full-Stack+roles;&font=Fira+Code&center=true&width=580&height=45&color=d8b4fe&vCenter=true&size=22&pause=1200&background=00000000"/>
+  <img src="https://readme-typing-svg.demolab.com/?lines=Building+full-stack+products+with+MERN;Exploring+AI+%26+ML+powered+systems;Learning+by+shipping+real+projects;Open+to+SDE+%2F+Full-Stack+roles;&font=Fira+Code&center=true&width=580&height=45&color=6ee7b7&vCenter=true&size=22&pause=1200&background=00000000"/>
 </a>
 
 <br/>
 
-<img src="https://img.shields.io/badge/B.Tech-Computer%20Science-8b5cf6?style=for-the-badge&labelColor=140829"/>
-<img src="https://img.shields.io/badge/IMS%20Engineering%20College-Ghaziabad-8b5cf6?style=for-the-badge&labelColor=140829"/>
-<img src="https://img.shields.io/badge/Location-Delhi%20NCR%2C%20India-8b5cf6?style=for-the-badge&labelColor=140829&logo=googlemaps&logoColor=white"/>
+<img src="https://img.shields.io/badge/B.Tech-Computer%20Science-10b981?style=for-the-badge&labelColor=022c22"/>
+<img src="https://img.shields.io/badge/IMS%20Engineering%20College-Ghaziabad-10b981?style=for-the-badge&labelColor=022c22"/>
+<img src="https://img.shields.io/badge/Location-Delhi%20NCR%2C%20India-10b981?style=for-the-badge&labelColor=022c22&logo=googlemaps&logoColor=white"/>
 
 <br/><br/>
 
-<a href="https://kanikagupta.me/"><img src="https://img.shields.io/badge/Portfolio-9333ea?style=for-the-badge&logo=vercel&logoColor=white&labelColor=140829"/></a>
-<a href="https://www.linkedin.com/in/kanika-gupta369/"><img src="https://img.shields.io/badge/LinkedIn-9333ea?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=140829"/></a>
-<a href="mailto:22guptakanika@gmail.com"><img src="https://img.shields.io/badge/Email-9333ea?style=for-the-badge&logo=gmail&logoColor=white&labelColor=140829"/></a>
-<a href="https://github.com/itsKanika"><img src="https://img.shields.io/badge/GitHub-9333ea?style=for-the-badge&logo=github&logoColor=white&labelColor=140829"/></a>
+<a href="https://kanikagupta.me/"><img src="https://img.shields.io/badge/Portfolio-059669?style=for-the-badge&logo=vercel&logoColor=white&labelColor=022c22"/></a>
+<a href="https://www.linkedin.com/in/kanika-gupta369/"><img src="https://img.shields.io/badge/LinkedIn-059669?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=022c22"/></a>
+<a href="mailto:22guptakanika@gmail.com"><img src="https://img.shields.io/badge/Email-059669?style=for-the-badge&logo=gmail&logoColor=white&labelColor=022c22"/></a>
+<a href="https://github.com/itsKanika"><img src="https://img.shields.io/badge/GitHub-059669?style=for-the-badge&logo=github&logoColor=white&labelColor=022c22"/></a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=itsKanika&label=Profile%20Views&color=8b5cf6&style=for-the-badge&labelColor=140829"/>
-<img src="https://img.shields.io/github/followers/itsKanika?label=Followers&style=for-the-badge&color=8b5cf6&labelColor=140829"/>
-<img src="https://img.shields.io/github/stars/itsKanika?label=Stars&style=for-the-badge&color=8b5cf6&labelColor=140829"/>
+<img src="https://komarev.com/ghpvc/?username=itsKanika&label=Profile%20Views&color=10b981&style=for-the-badge&labelColor=022c22"/>
+<img src="https://img.shields.io/github/followers/itsKanika?label=Followers&style=for-the-badge&color=10b981&labelColor=022c22"/>
+<img src="https://img.shields.io/github/stars/itsKanika?label=Stars&style=for-the-badge&color=10b981&labelColor=022c22"/>
 
 </div>
 
@@ -33,13 +33,13 @@
 
 ### 👩‍💻 About Me
 
-I'm a final-year Computer Science undergraduate at **IMS Engineering College, Ghaziabad**, focused on full-stack engineering with the **MERN stack**, and building an increasing interest in **AI-driven and voice-first systems**.
+I'm a final-year Computer Science undergraduate at **IMS Engineering College, Ghaziabad**, focused on full-stack engineering with the **MERN stack**, and building an increasing interest in **AI and AI/ML-driven systems**.
 
 I've worked in a founder's-office capacity at an early-stage startup, completed a MERN full-stack internship, and taken on freelance web development engagements — so I'm equally comfortable owning a feature end-to-end or scoping a project from a client conversation.
 
 ```yaml
 🎓 Studying:    Computer Science (B.Tech, Class of 2027)
-🛠️ Building:    AI voice agents, career-tooling web apps
+🛠️ Building:    AI-powered tools, e-commerce platforms, career-tooling web apps
 🤝 Open to:     SDE / Full-Stack Developer roles (Fresher) · Freelance web dev
 📫 Reach me:    22guptakanika@gmail.com
 ```
@@ -80,12 +80,13 @@ I've worked in a founder's-office capacity at an early-stage startup, completed 
 
 ---
 
-### 🤖 AI / ML Expertise
+### 🤖 AI & AI/ML Expertise
 
 | Domain | Proficiency | Details |
 |---|:---:|---|
-| **Conversational Voice AI** | Working Proficiency | Voice agent pipelines using **Retell AI** + **Twilio** |
+| **Conversational AI Agents** | Working Proficiency | Voice-enabled agent pipelines using **Retell AI** + **Twilio** |
 | **LLM-Assisted Code Analysis** | Working Proficiency | Python tool to flag AI-generated code patterns and potential vulnerabilities |
+| **Applied Machine Learning** | Working Proficiency | Spoilage-risk prediction using **scikit-learn**, aggregated into storage/decision recommendations |
 | **Speech Interfaces (Browser-native)** | Working Proficiency | Voice-driven FAQ bot using the native **Web Speech API** |
 | **Applied Computer Vision** | Familiar | Satellite image forgery detection project |
 
@@ -96,32 +97,50 @@ I've worked in a founder's-office capacity at an early-stage startup, completed 
 ### 🚀 Featured Projects
 
 <details>
-<summary><b>📊 Trackr — Student Career & Internship Tracker</b></summary>
+<summary><b>🌾 AI-Agri Spoilage Risk Prediction & Storage Strategy</b></summary>
 <br/>
 
-A full-stack portfolio project for students to track internship and job applications, with visual progress insights.
+An AI-powered decision support system that predicts the spoilage risk of harvested agricultural produce and recommends the most economically beneficial action for each batch — sell now, invest in local storage, or transport to market. Aggregates expected spoilage losses at the village level to flag where storage infrastructure investment is most needed.
+
+<img src="https://skillicons.dev/icons?i=python"/> &nbsp; <img src="https://img.shields.io/badge/scikit--learn-ML-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
 
 | | |
 |---|---|
-| **Stack** | React, Vite, Firebase Auth, Recharts, DummyJSON API |
-| **Persistence** | LocalStorage-backed state alongside Firebase auth |
-| **Focus** | Application pipeline tracking, data visualization, clean UX for repetitive job-search workflows |
-| **Repository** | [`github.com/itsKanika`](https://github.com/itsKanika) |
+| **Stack** | Python 3.10+, scikit-learn, Jupyter Notebook |
+| **Focus** | Spoilage-risk prediction, cost-benefit action recommendation, village-level storage-need aggregation |
+| **Repository** | [`github.com/itsKanika/AI-Agri-Spoilage-Risk-Prediction-and-Storage-Strategy`](https://github.com/itsKanika) |
 
 </details>
 
 <details>
-<summary><b>🎓 CampusDecode — College Discovery Web App</b></summary>
+<summary><b>🛒 E-Commerce Platform (MERN Stack)</b></summary>
 <br/>
 
-A comprehensive college discovery platform to help students compare institutions and gauge real fit.
+A full-stack e-commerce web application with product catalog, cart, checkout, and order management, built on a custom REST API.
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb"/>
 
 | | |
 |---|---|
-| **Stack** | React, Vite, TypeScript, Tailwind CSS, ShadCN UI |
-| **Key Features** | College comparison views, student match scoring, a "Reality Meter" for expectation-setting |
-| **Focus** | Information-dense UI made scannable, type-safe front end |
-| **Repository** | [`github.com/itsKanika`](https://github.com/itsKanika) |
+| **Stack** | React, Node.js, Express, MongoDB, REST API |
+| **Focus** | Product catalog & search, cart/checkout flow, order management, API-driven architecture |
+| **Repository** | *Coming soon — repo not uploaded yet* |
+
+</details>
+
+<details>
+<summary><b>🔍 AI Code Reviewer (MERN Stack)</b></summary>
+<br/>
+
+A web-based code review assistant that lets users submit code and get automated review feedback, built on the MERN stack.
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb"/>
+
+| | |
+|---|---|
+| **Stack** | React, Node.js, Express, MongoDB |
+| **Focus** | Automated code feedback, review-history tracking, clean submission UX |
+| **Repository** | *Coming soon — repo not uploaded yet* |
 
 </details>
 
@@ -130,6 +149,8 @@ A comprehensive college discovery platform to help students compare institutions
 <br/>
 
 A Python tool designed to detect AI-generated code patterns and flag potential security vulnerabilities in source code.
+
+<img src="https://skillicons.dev/icons?i=python"/>
 
 | | |
 |---|---|
@@ -144,6 +165,8 @@ A Python tool designed to detect AI-generated code patterns and flag potential s
 <br/>
 
 A model-driven project exploring the detection of tampering in satellite imagery.
+
+<img src="https://skillicons.dev/icons?i=python,css"/>
 
 | | |
 |---|---|
@@ -170,40 +193,11 @@ Personal developer portfolio, live at **kanikagupta.me**.
 
 ---
 
-### 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=itsKanika&show_icons=true&theme=radical&hide_border=true&bg_color=140829&title_color=e9d5ff&icon_color=a78bfa&text_color=d8cef0" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=itsKanika&theme=radical&hide_border=true&background=140829&stroke=e9d5ff&ring=a78bfa&fire=c084fc&currStreakLabel=e9d5ff" width="48%"/>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsKanika&layout=compact&theme=radical&hide_border=true&bg_color=140829&title_color=e9d5ff&text_color=d8cef0" width="48%"/>
-
-</div>
-
-<br/>
-
----
-
-### 🏅 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=itsKanika&theme=radical&no-frame=true&no-bg=true&margin-w=10&column=6"/>
-
-</div>
-
-<br/>
-
----
-
 ### 📈 Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=itsKanika&theme=react-dark&bg_color=140829&color=e9d5ff&line=a78bfa&point=d8cef0&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=itsKanika&theme=react-dark&bg_color=022c22&color=d1fae5&line=10b981&point=6ee7b7&hide_border=true"/>
 
 </div>
 
@@ -223,19 +217,30 @@ Personal developer portfolio, live at **kanikagupta.me**.
 
 ### 🎯 Current Focus
 
+<div align="center">
+<img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,py"/>
+</div>
+
+<br/>
+
 ```yaml
 building:
-  - AI voice-agent systems (Retell AI + Twilio)
-  - Career & productivity tooling for students
-  - Freelance web development projects
+  - 🛒 A full-stack e-commerce platform (MERN + REST API)
+  - 🔍 An AI-assisted code reviewer for cleaner, safer code
+  - 🌾 Real-world ML tools for agriculture (spoilage & storage prediction)
 
 exploring:
-  - Advanced Data Structures & Algorithms
-  - LLM-assisted engineering workflows
+  - 📚 Advanced Data Structures & Algorithms
+  - 🤖 LLM-assisted engineering workflows
+  - 🗣️ Voice & conversational AI (Retell AI + Twilio)
 
 open_to:
-  - SDE / Full-Stack Developer roles (Fresher, MERN stack)
-  - Freelance web development engagements
+  - 💼 SDE / Full-Stack Developer roles (Fresher, MERN stack)
+  - 🧩 Freelance web development engagements
+
+goal_for_this_year:
+  - 🚀 Ship 2-3 polished, production-quality full-stack projects
+  - 🎯 Land my first full-time SDE role
 ```
 
 <br/>
@@ -246,10 +251,10 @@ open_to:
 
 <div align="center">
 
-<a href="mailto:22guptakanika@gmail.com"><img src="https://img.shields.io/badge/Gmail-9333ea?style=for-the-badge&logo=gmail&logoColor=white&labelColor=140829"/></a>
-<a href="https://www.linkedin.com/in/kanika-gupta369/"><img src="https://img.shields.io/badge/LinkedIn-9333ea?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=140829"/></a>
-<a href="https://github.com/itsKanika"><img src="https://img.shields.io/badge/GitHub-9333ea?style=for-the-badge&logo=github&logoColor=white&labelColor=140829"/></a>
-<a href="https://kanikagupta.me/"><img src="https://img.shields.io/badge/Portfolio-9333ea?style=for-the-badge&logo=vercel&logoColor=white&labelColor=140829"/></a>
+<a href="mailto:22guptakanika@gmail.com"><img src="https://img.shields.io/badge/Gmail-059669?style=for-the-badge&logo=gmail&logoColor=white&labelColor=022c22"/></a>
+<a href="https://www.linkedin.com/in/kanika-gupta369/"><img src="https://img.shields.io/badge/LinkedIn-059669?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=022c22"/></a>
+<a href="https://github.com/itsKanika"><img src="https://img.shields.io/badge/GitHub-059669?style=for-the-badge&logo=github&logoColor=white&labelColor=022c22"/></a>
+<a href="https://kanikagupta.me/"><img src="https://img.shields.io/badge/Portfolio-059669?style=for-the-badge&logo=vercel&logoColor=white&labelColor=022c22"/></a>
 
 </div>
 
@@ -261,6 +266,6 @@ open_to:
 
 *"Code is temporary. The habit of thinking clearly about problems is permanent."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0033,50:4c1d95,100:1a0033&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:022c22,50:065f46,100:022c22&height=120&section=footer"/>
 
 </div>
