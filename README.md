@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:022c22,50:065f46,100:022c22&height=220&section=header&text=Kanika%20Gupta&fontSize=60&fontColor=red&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Engineer%20%7C%20MERN%20%2B%20AI%2FML%20Enthusiast&descAlignY=58&descSize=22&descColor=d1fae5" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:022c22,50:065f46,100:022c22&height=220&section=header&text=Kanika%20Gupta&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Engineer%20%7C%20MERN%20%2B%20AI%2FML%20Enthusiast&descAlignY=58&descSize=22&descColor=d1fae5" width="100%"/>
 
 <a href="https://github.com/itsKanika">
   <img src="https://readme-typing-svg.demolab.com/?lines=Building+full-stack+products+with+MERN;Exploring+AI+%26+ML+powered+systems;Learning+by+shipping+real+projects;Open+to+SDE+%2F+Full-Stack+roles;&font=Fira+Code&center=true&width=580&height=45&color=6ee7b7&vCenter=true&size=22&pause=1200&background=00000000"/>
